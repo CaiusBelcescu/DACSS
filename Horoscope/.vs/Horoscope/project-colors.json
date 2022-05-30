@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69770a50-277f-4e43-ae4c-b16febc95c69": {
+      "ProjectGuid": "69770a50-277f-4e43-ae4c-b16febc95c69",
+      "DisplayName": "Horoscope",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

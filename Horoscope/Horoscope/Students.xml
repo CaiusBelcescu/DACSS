@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+	<student>
+		<id>dbb5f74f-8fbc-420b-a600-84a47d7ce978</id>
+		<name>Belcescu Caius</name>
+	</student>
+	<student>
+		<id>3c930afa-566e-4735-8ed0-98763e9f5af0</id>
+		<name>Dobre Vlad</name>
+	</student>
+	<student>
+		<id>2cde09dc-316c-421f-b134-854e9e4234ed</id>
+		<name>Serenciuc Bianca Ioana</name>
+	</student>
+</students>
